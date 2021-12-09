@@ -12,3 +12,4 @@
 - vscode
 - Vue Language Features (Volar)
 - TypeScript Vue Plugin (Volar)
+- Prettier - Code formatter
