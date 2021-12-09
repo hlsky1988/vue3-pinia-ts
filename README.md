@@ -1,24 +1,14 @@
 # vue3-pinia
 
-## Project setup
-```
-npm install
-```
+基于 vue-cli + Pinia 搭建的脚手架
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- vue3 + vue-router
+- typescript
+- [Pinia](https://pinia.esm.dev/)
+- webpack
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 推荐使用方式
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- vscode
+- Vue Language Features (Volar)
+- TypeScript Vue Plugin (Volar)
