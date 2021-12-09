@@ -5,6 +5,6 @@ import HelloWorld from '@/components/HelloWorld.vue'
 <template>
   <div class="home">
     <img alt="Vue logo" src="@/assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js + TypeScript App" />
+    <HelloWorld msg="vue3-ts-pinia App" />
   </div>
 </template>
